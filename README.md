@@ -14,10 +14,11 @@ Animated RGB colors for Windows title bars using Windhawk.
 ## Installation
 
 1. Install [Windhawk](https://windhawk.net/)
-2. Create a new mod
-3. Copy `src/rainbow-titlebar.cpp`
-4. Paste it into the Windhawk editor
-5. Compile and enable the mod
+2. Enable Developper Mod (> Settings > Developper Mode)
+3. Create a new mod
+4. Copy `src/rainbow-titlebar.cpp`
+5. Paste it into the Windhawk editor
+6. Compile and enable the mod
 
 ## Speed
 
